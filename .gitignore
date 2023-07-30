@@ -1,0 +1,10 @@
+logs
+.ebextensions
+artifacts/raw.csv
+notebooks
+RecommendationProject.egg-info
+src/components
+src/pipeline/dataprocessing_pipeline.py
+src/pipeline/__init__.py
+src/__init__.py
+setup.py
